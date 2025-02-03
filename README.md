@@ -6,10 +6,15 @@ Technology used: Python, MySQL, Pandas, NumPy, Scikit-learn, XGBoost, Random For
 The dataset is avaible on kaggle this is the link: https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india
 
 city_day csv
+
 city_hour csv
+
 station_day csv
+
 station_hour csv
+
 station csv
+
 
 # The links for the geo json file of india are as follows:
 
