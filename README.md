@@ -14,4 +14,5 @@ station csv
 # The links for the geo json file of india are as follows:
 
 state geojson: https://github.com/Subhash9325/GeoJson-Data-of-Indian-States
+
 district geojson: https://www.kaggle.com/datasets/krutarthhd/india-geojson-file?select=district
